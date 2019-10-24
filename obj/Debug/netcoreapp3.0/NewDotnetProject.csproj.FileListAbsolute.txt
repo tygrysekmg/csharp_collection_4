@@ -1,0 +1,11 @@
+/home/gmilczuk/eclipse/csharp/workspace/NewDotnetProject/bin/Debug/netcoreapp3.0/NewDotnetProject
+/home/gmilczuk/eclipse/csharp/workspace/NewDotnetProject/bin/Debug/netcoreapp3.0/NewDotnetProject.deps.json
+/home/gmilczuk/eclipse/csharp/workspace/NewDotnetProject/bin/Debug/netcoreapp3.0/NewDotnetProject.runtimeconfig.json
+/home/gmilczuk/eclipse/csharp/workspace/NewDotnetProject/bin/Debug/netcoreapp3.0/NewDotnetProject.runtimeconfig.dev.json
+/home/gmilczuk/eclipse/csharp/workspace/NewDotnetProject/bin/Debug/netcoreapp3.0/NewDotnetProject.dll
+/home/gmilczuk/eclipse/csharp/workspace/NewDotnetProject/bin/Debug/netcoreapp3.0/NewDotnetProject.pdb
+/home/gmilczuk/eclipse/csharp/workspace/NewDotnetProject/obj/Debug/netcoreapp3.0/NewDotnetProject.csprojAssemblyReference.cache
+/home/gmilczuk/eclipse/csharp/workspace/NewDotnetProject/obj/Debug/netcoreapp3.0/NewDotnetProject.AssemblyInfoInputs.cache
+/home/gmilczuk/eclipse/csharp/workspace/NewDotnetProject/obj/Debug/netcoreapp3.0/NewDotnetProject.AssemblyInfo.cs
+/home/gmilczuk/eclipse/csharp/workspace/NewDotnetProject/obj/Debug/netcoreapp3.0/NewDotnetProject.dll
+/home/gmilczuk/eclipse/csharp/workspace/NewDotnetProject/obj/Debug/netcoreapp3.0/NewDotnetProject.pdb
